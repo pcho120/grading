@@ -1,0 +1,33 @@
+Name: paul
+ID: 10
+
+Grade: 
+Homework 1 : 80.0
+Homework 2 : 99.0
+
+Test 1 : 83.0
+Test 2 : 95.0
+Test 3 : 91.0
+
+The overall grade of this course is: 86.33333333333334
+The letter grade is: B
+Name: paul
+ID: 10
+
+Grade: 
+Homework 1 : 90.0
+
+Test 1 : 90.0
+Test 2 : 80.0
+
+The overall grade of this course is: 87.5
+The letter grade is: B+Name: paul
+ID: 2
+
+Grade: 
+Homework 1 : 2.0
+
+Test 1 : 90.0
+
+The overall grade of this course is: 46.0
+The letter grade is: F

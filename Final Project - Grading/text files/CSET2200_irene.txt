@@ -1,0 +1,13 @@
+Name: irene
+ID: 90
+
+Grade: 
+Homework 1 : 90.0
+Homework 2 : 80.0
+Homework 3 : 70.0
+
+Test 1 : 90.0
+Test 2 : 99.0
+
+The overall grade of this course is: 87.25
+The letter grade is: B+
